@@ -38,13 +38,13 @@
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/U8T5W3J1FNo)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+chinna+𝐃𝐦+...">
 <p align="center">
     <a href="https://telegram.me/ASTRA_SQL">
-        <img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 moon x thanu%20☆-blue.svg?style=for-the-badge&logo=Telegram">
+        <img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 Astra%20☆-blue.svg?style=for-the-badge&logo=Telegram">
     </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
+
 <p align="center">
     <a href="https://telegram.me/DFSchinnaop">
         <img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 moon x thanu%20☆-blue.svg?style=for-the-badge&logo=Telegr
@@ -67,7 +67,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
-<a href="https://t.me/THE_VIP_BOY_OP">
+<a href="https://t.me/DFSchinnaop">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
 <a href="https://instagram.com/the.vip.boy">
